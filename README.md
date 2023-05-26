@@ -17,8 +17,8 @@ The MERN Flashcard App is a full-stack web application built using the MERN stac
 
 To run the MERN Flashcard App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/mern-flashcard-app.git`
-2. Navigate to the project directory: `cd mern-flashcard-app`
+1. Clone the repository: `git clone https://github.com/TheRealSal/Flashcard-App.git`
+2. Navigate to the project directory: `cd Flashcard-App`
 3. Install dependencies for both the server and the client:
    - Server: `cd server` and run `npm install`
    - Client: `cd client` and run `npm install`
