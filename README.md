@@ -30,11 +30,11 @@ To run the MERN Flashcard App locally, follow these steps:
 
 ## Screenshots
 
-# Decks
+### Decks
 ![Screen Shot 2023-05-26 at 2 55 37 PM](https://github.com/TheRealSal/Flashcard-App/assets/75696327/3240aab5-aae4-4281-82e7-bc3576d539c3)
 
 
-# Cards within a deck
+### Cards within a deck
 ![Screen Shot 2023-05-26 at 2 58 47 PM](https://github.com/TheRealSal/Flashcard-App/assets/75696327/d6f9db17-446e-4d17-a302-58675a3a23eb)
 
 
